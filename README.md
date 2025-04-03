@@ -35,20 +35,20 @@ Example of trying to solve an already solved board:
 
 Example of printing and solving a board: 
 
-![][./images/image5.png)]
+![](./images/image5.png)
 
 Attempting to input a board and print it:  
-![][./images/image7.png)]
+![](./images/image7.png)
 
 Setting default board and solving for the three blank cells, also an attempt to find another solution:  
-![][./images/image4.png)]
+![](./images/image4.png)
 
 Finding multiple solutions to a single board:
 
-![][./images/image3.png)]
+![](./images/image3.png)
 
 Checking validity of a board:  
-![][./images/image2.png)]
+![](./images/image2.png)
 
 **Implementation Details:** 
 
